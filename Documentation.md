@@ -7,9 +7,6 @@
 - **Encryption Function**: `encrypt_files(key)`
   - Iterates through each file in the target folder, encrypts its contents using the provided encryption key, and saves the encrypted data back to the original file. This function simulates the core behavior of ransomware, which encrypts victims' files to render them inaccessible without the decryption key.
 
-- **Decryption Function**: `decrypt_files(key)`
-  - Performs the reverse operation of encryption by decrypting each encrypted file using the encryption key. This function is crucial for demonstrating the decryption process that occurs after the ransom is paid.
-
 - **Persistence Mechanism**: `create_persistence()`
   - Ensures the ransomware script is executed automatically upon system startup by adding it to the list of startup programs. Persistence is a common technique employed by ransomware to maintain its presence on infected systems, ensuring continued encryption of new files.
 
