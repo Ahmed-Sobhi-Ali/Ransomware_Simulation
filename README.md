@@ -6,7 +6,7 @@
 
 This repository contains an advanced implementation of a ransomware simulation script. The purpose of this project is to educate cybersecurity professionals about the inner workings of ransomware, including its encryption techniques, propagation methods, anti-debugging measures, and more.
 
-**Disclaimer**: The authors are not responsible for any damages caused by the misuse of this code.
+**Disclaimer**: The author is not responsible for any damages caused by the misuse of this code.
 
 ## Features
 
@@ -27,4 +27,4 @@ This repository contains an advanced implementation of a ransomware simulation s
 
 ## Disclaimer
 
-This project is designed for educational purposes only. Do not use this code for malicious purposes. The authors are not responsible for any damages caused by the misuse of this code.
+This project is designed for educational purposes only. Do not use this code for malicious purposes. The author is not responsible for any damages caused by the misuse of this code.
